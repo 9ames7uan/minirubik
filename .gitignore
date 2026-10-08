@@ -3,3 +3,9 @@
 *.swp
 solver
 mini
+*.bin
+gen_pdb
+bin2asm
+solver_ida
+solver_cli.s
+solver_gui.s
